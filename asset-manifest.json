@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bms-website/static/css/main.f184994e.css",
+    "main.js": "/bms-website/static/js/main.d51f799c.js",
+    "static/media/showcase-bg.jpg": "/bms-website/static/media/showcase-bg.f5aa1b73040951edffa2.jpg",
+    "static/media/mission.png": "/bms-website/static/media/mission.1796156a6b059ff893b9.png",
+    "index.html": "/bms-website/index.html",
+    "main.f184994e.css.map": "/bms-website/static/css/main.f184994e.css.map",
+    "main.d51f799c.js.map": "/bms-website/static/js/main.d51f799c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f184994e.css",
+    "static/js/main.d51f799c.js"
+  ]
+}
